@@ -3,6 +3,7 @@ import homeImage from './homeImage.png'
 import book from './book.png'
 import laptop from './laptop.png'
 import skill from './skill.png'
+import kb from './kb.png'
 
 import angular from './angular.png'
 import ionic from './ionic.png'
@@ -34,7 +35,6 @@ import linkdin from './LinkedIn.png'
 
 
 
-
 export {
     logo,cognizantLogo,wellsLogo,nodejs,contactusbg,phone,youtube,instagram,facebook,linkdin,
     homeImage,aflacLogo,wiuLogo,
@@ -50,6 +50,7 @@ export {
     mysql,
     react,
     wave,
-    robo
+    robo,
+    kb
 
 }

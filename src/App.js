@@ -2,9 +2,10 @@ import logo from "./logo.svg";
 import "./App.css";
 import NavBar from "./components/NavBar";
 import Home from "./components/Home";
+import AboutMe from "./components/AboutMe";
 function App() {
   return (
-    <div className="p-[20px]">
+    <div className="p-[1px]">
 
       {/* Nav Bar */}
       <NavBar/>
@@ -12,6 +13,7 @@ function App() {
       <Home/>
   
       {/* About */}
+      <AboutMe/>
       {/* Skills */}
       {/* Portfolio */}
       {/* Companies */}

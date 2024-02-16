@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import { logo } from "../assests";
+import { kb } from "../assests";
 const NavBar = () => {
   const [toggle, setToggle] = useState(false);
   return (
     <div>
-      <div className="flex justify-between">
-        <img src={logo} className="h-5" />
+      <div className="flex justify-between pt-5">
+        <img src={kb} className='h-14 ' />
         <div className="hidden md:flex ">
           <ul className="flex flex-row">
             <li className="mr-4 transition-all ease-in-out hover:scale-110  cursor-pointer">

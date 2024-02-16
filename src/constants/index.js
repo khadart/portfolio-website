@@ -6,6 +6,8 @@ import { aflacLogo, android, angular, cognizantLogo,
 export const AppText={
    hello:'Hello,',
    Iam:'I am ',
+   About:'About',
+   Me:' Me',
    Khadar:' Khadar basha',
    aboutMeDescripion:'I am software developer working in IT industry from  last 3 Years as Full stack developer. Expert in Front-end  and Back-end Development',
    Skills:'Skills & ',
